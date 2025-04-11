@@ -9,6 +9,10 @@
     "test": "pnpm -C packages/components test",
     "build": "rollup -c && node generate-types.cjs"
   },
+  "files": [
+    "/dist",
+    "LICENSE"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
