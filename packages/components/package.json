@@ -11,6 +11,9 @@
   "peerDependencies": {
     "vue": "^3.0.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
