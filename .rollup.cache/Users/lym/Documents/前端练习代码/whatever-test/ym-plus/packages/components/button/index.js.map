@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["index.ts"],"names":[],"mappings":"AAAA,gBAAgB;AAChB,OAAO,MAAM,MAAM,kBAAkB,CAAC;AACtC,OAAO,EAAE,WAAW,EAAE,MAAM,gBAAgB,CAAC;AAE7C,eAAe,WAAW,CAAC,MAAM,CAAC,CAAC","sourcesContent":["// button组件的入口文件\nimport Button from './src/button.vue';\nimport { withInstall } from '@ym-plus/utils';\n\nexport default withInstall(Button);"]}

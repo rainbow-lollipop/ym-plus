@@ -1,0 +1,11 @@
+{
+  "name": "@ym-plus/utils",
+  "version": "1.0.0",
+  "description": "这是utils",
+  "main": "index.ts",
+  "types": "types.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.1"
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,gBAAgB,CAAC;AAC7C,OAAO,IAAI,MAAM,gBAAgB,CAAC;AAGlC,eAAe,WAAW,CAAC,IAAI,CAAC,CAAA","sourcesContent":["import { withInstall } from '@ym-plus/utils';\nimport Card from './src/card.vue';\n\n\nexport default withInstall(Card)"]}
